@@ -1,4 +1,4 @@
-const Discord = require("discord.js");
+const Discord = require("Discord.js");
 const Client = new Discord.Client();
 const prefix = "-";
 
