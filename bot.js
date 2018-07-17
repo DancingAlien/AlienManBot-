@@ -48,4 +48,4 @@ Client.on(`message`, (message)=> {
 
 
 
-Client.login(process.en.NDY3NzI1NjM5NTYzMDgzNzg3.Di_aiw.qz9inx1F6GzOPr1OmfznNZkKH5Y);
+Client.login(process.env.BOT_TOKEN);
